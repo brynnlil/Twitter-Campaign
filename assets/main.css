@@ -1,0 +1,12 @@
+body {
+  background-color: lavender;
+}
+
+h1 {
+  color: blue;
+}
+
+.appgif {
+	display: flex;
+justify-content: center;
+}
